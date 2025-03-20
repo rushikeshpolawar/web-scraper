@@ -15,6 +15,3 @@ npm start
 ✅ Handles MFA manually  
 ✅ Outputs JSON with product name, price, and link  
 
-## 🛑 Disclaimer
-- This script is for educational purposes only.
-- Use responsibly and comply with website terms of service.
